@@ -1,7 +1,6 @@
 """
 Connor Duffey
 CS 141
-Prof Steele
 Index tools document for the homeprices project
 """
 from dataclasses import dataclass
