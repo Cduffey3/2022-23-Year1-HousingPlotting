@@ -1,11 +1,9 @@
 """
 Connor Duffey
 CS 141
-Prof Steele
 timeline plotting file
 """
 import numpy as np
-# import numpy’s ma submodule using the alias ma
 import index_tools as it
 import numpy.ma as ma
 import matplotlib.ticker as mticker
