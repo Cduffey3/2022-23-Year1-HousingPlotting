@@ -1,7 +1,6 @@
 """
 Connor Duffey
 CS 141
-Prof Steele
 Period ranking file
 """
 
